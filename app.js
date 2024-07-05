@@ -1,5 +1,5 @@
 let randomNumber = Math.floor(Math.random() * 10) + 1;
-console.log(randomNumber);
+
 
 let attempts = 0;
 const maxAttempts = 3;
